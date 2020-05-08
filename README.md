@@ -22,5 +22,7 @@ The project was verified using:
 Notice: For other software context, some modifications may be necessary, as the future evolution of these products is unknown.
 
 4. Hardware context
+
 -STM32F4 -Discovery, MB997C (equipped with LIS3DH)
+
 -CH340  TTL to USB adapter, on PB6 and PB7
