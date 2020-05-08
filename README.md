@@ -10,10 +10,15 @@ Run in Labview the attached VI (Afisare3D3_2020.vi), with the attached board's i
 
 3. Software context
 The project was verified using:
+
 -STM32 Cube MX version 5.6.0
+
 -Firmware package STM32Cube FW_F4 V1.25.0
+
 -IAR-EWARM v 8.50.1.
+
 -LabView 16.0(32 bits)
+
 Notice: For other software context, some modifications may be necessary, as the future evolution of these products is unknown.
 
 4. Hardware context
