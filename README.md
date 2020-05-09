@@ -29,3 +29,5 @@ Notice: For other software context, some modifications may be necessary, as the 
 -STM32F4 -Discovery, MB997C (equipped with LIS3DH)
 
 -CH340  TTL to USB adapter, on PB6 and PB7
+
+5. YouTube classroom: https://www.youtube.com/watch?v=Rn3afOxtJZk
